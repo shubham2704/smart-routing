@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rebasedata/php-client": "^0.0.3",
+        "bentools/string-combinations": "^1.2"
+    }
+}
